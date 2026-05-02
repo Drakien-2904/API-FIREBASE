@@ -78,10 +78,7 @@ streamlit run app.py
 ------------------------------------------------------------------------
 
 ## 🎥 4. Video demo
-
-Dán link video demo của bạn vào đây:
-
-    https://your-video-link
+https://www.youtube.com/watch?v=TNkhGLEccn0
 
 ------------------------------------------------------------------------
 
